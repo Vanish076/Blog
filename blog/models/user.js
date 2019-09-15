@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-07-31 09:42:47
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-01 17:52:07
-*/
 const mongoose = require('mongoose')
 
 //1.定义Schema

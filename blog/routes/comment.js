@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-01 15:30:57
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-08 10:21:14
-*/
 const express = require('express')
 const CommentModel = require('../models/comment.js')
 

@@ -1,22 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-08-04 17:21:51
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-07 15:37:07
-*/
-
-/**
- * [pagination description]
- * @param  {[object]} options [参数]
- * page:当前页
- * model:要处理的数据模型
- * query:查询条件
- * sort:排序
- * projection:投影
- * populates:数组,关联的模型
- * 
- * @return {[type]}         [description]
- */
 async function pagination(options){
 /*
     分页分析:

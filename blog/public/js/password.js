@@ -1,9 +1,3 @@
-/*
-* @Author: TomChen
-* @Date:   2019-03-13 18:10:45
-* @Last Modified by:   TomChen
-* @Last Modified time: 2019-08-08 11:33:43
-*/
 ;(function($){
     var passwordReg = /^\w{3,6}$/
     $('.btn-sub-password').on('click',function(){
